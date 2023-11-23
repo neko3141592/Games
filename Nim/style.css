@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+
+#screen {
+    margin: 0 100px;
+}
+
+.nomal {
+    height: 50px;
+    width: 240px;
+    border-radius: 15px;
+    font-size: 20px;
+    transition: 200ms;
+    padding: 0 20px;
+    margin: 5px;
+    background-color: #FFFFFF;
+}
+
+.card{
+    height: 50px;
+    width: 140px;
+    border-radius: 10px;
+    font-size: 20px;
+    transition: 200ms;
+    padding: 0 20px;
+    margin: 5px;
+    background-color: beige;
+}
+
+.card:hover {
+    background-color: aquamarine;
+    font-size: 22px;
+}
